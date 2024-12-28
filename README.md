@@ -19,7 +19,7 @@
 </h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=xnil6x404&label=Profile%20Views&color=blue&style=plastic" alt="Profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=xnil6x404&label=Profile%20Views&color=blue&style=plastic" alt="Profile views" width="400" /> 
 </p>
 
 <p align="center">
