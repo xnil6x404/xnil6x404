@@ -41,24 +41,6 @@
 
 [![Twitter: XNIL6X](https://img.shields.io/twitter/follow/xnil6x?style=social)](https://twitter.com/xnil6x)
 [![GitHub: XNIL6X](https://img.shields.io/github/followers/xnil6x404?label=follow&style=social)](https://github.com/xnil6x404)
-
----
-
-## 🌟 About Me
-- **Username:** [xnil6x404](https://github.com/xnil6x404)
-- **GitHub ID:** 108590422
-- **Member Since:** Sat Jul 02 2022
-- **Last Active:** Sat Dec 28 2024
-
----
-
-### 🚀 My GitHub Stats
-- **Public Repositories:** 95
-- **Public Gists:** 0
-- **Followers:** 5
-- **Following:** 31
-- **Stars:** undefined ⭐ (This is a placeholder for your stars)
-
 ---
 
 ### 🛠️ Technologies & Tools:
@@ -95,6 +77,22 @@
 [![My Repository] <a href="https://github.com/xnil6x404/Goatbot-v2">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xnil6x&repo=GOATBoT--V2&theme=github_dark" style="margin-top: 10px;"/>
   </a>
+---
+## 🌟 About Me
+- **Username:** [xnil6x404](https://github.com/xnil6x404)
+- **GitHub ID:** 108590422
+- **Member Since:** Sat Jul 02 2022
+- **Last Active:** Sat Dec 28 2024
+
+---
+
+### 🚀 My GitHub Stats
+- **Public Repositories:** 95
+- **Public Gists:** 0
+- **Followers:** 5
+- **Following:** 31
+- **Stars:** undefined ⭐ (This is a placeholder for your stars)
+
 ---
 
 ### 💡 Fun Fact
