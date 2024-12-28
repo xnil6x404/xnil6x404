@@ -54,7 +54,7 @@
 **✉️ Email:** xnilxhowdhury@gmail.com
 
 [![Twitter: XNIL6X](https://img.shields.io/twitter/follow/xnil6x?style=social)](https://twitter.com/xnil6x)
-[![GitHub: XNIL6X](https://img.shields.io/github/followers/xnil6x404?label=follow&style=social)](https://github.com/xnil6x404)
+[![Follow](https://img.shields.io/badge/Follow-GitHub-black?logo=github&style=for-the-badge)](https://github.com/xnil6x404) 6
 ---
 
 ### 🛠️ Technologies & Tools:
