@@ -1,16 +1,58 @@
-## Hi there 👋
+const fetch = require("node-fetch");
+const fs = require("fs");
+const { exec } = require("child_process");
 
-<!--
-**xnil6x404/xnil6x404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const url = "https://api.github.com/users/xnil6x404";
 
-Here are some ideas to get you started:
+fetch(url)
+  .then((response) => response.json())
+  .then((data) => {
+    const readmeContent = `
+# 👋 Hi, I'm ${data.login}!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Picture](${data.avatar_url})
+
+Welcome to my GitHub profile! Here's a quick overview of my activities and stats.
+
+---
+
+### 🌟 About Me
+- **Username:** [${data.login}](${data.html_url})
+- **GitHub ID:** ${data.id}
+- **Member Since:** ${new Date(data.created_at).toDateString()}
+- **Last Active:** ${new Date(data.updated_at).toDateString()}
+
+---
+
+### 🚀 My GitHub Stats
+- **Public Repositories:** ${data.public_repos}  
+- **Public Gists:** ${data.public_gists}  
+- **Followers:** ${data.followers}  
+- **Following:** ${data.following}  
+
+---
+
+### 📬 Contact Me
+Feel free to check out my profile at [GitHub Profile](${data.html_url}).
+
+---
+
+### 💡 Fun Fact
+GitHub has been part of my journey since **${new Date(data.created_at).getFullYear()}**, and I'm always learning and sharing new projects.
+`;
+
+    // Write the updated README.md
+    fs.writeFileSync("README.md", readmeContent, "utf8");
+
+    console.log("README.md file updated!");
+
+    // GitHub রিপোজিটরিতে পুশ করার জন্য কমান্ড
+    exec("git add README.md && git commit -m 'Updated README.md with dynamic stats' && git push", (err, stdout, stderr) => {
+      if (err) {
+        console.error(`Error: ${stderr}`);
+        return;
+      }
+      console.log(stdout);
+    });
+  })
+  .catch((error) => console.error("Error fetching data:", error));
