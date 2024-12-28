@@ -2,7 +2,7 @@ name: Update README.md
 
 on:
   schedule:
-    - cron: '*/1 * * * *'  # Run every minute
+    - cron: '*/1 * * * *'  # Run every minute (adjust the cron expression as needed)
   workflow_dispatch:  # Allow manual trigger
   push:
     branches:
@@ -16,31 +16,34 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout the repository
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    # Step 1: Checkout the repository
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.ACTIONS_TOKEN }}  # Use the token from GitHub secrets for authentication
 
-      # Step 2: Set up Node.js
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'  # Specify your Node.js version (e.g., 18)
+    # Step 2: Set up Node.js
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'  # Specify your Node.js version (e.g., 18)
 
-      # Step 3: Install dependencies
-      - name: Install dependencies
-        run: |
-          npm install
+    # Step 3: Install dependencies (if any, e.g., 'node-fetch')
+    - name: Install dependencies
+      run: |
+        npm install
 
-      # Step 4: Run the update script to fetch data and update README.md
-      - name: Run the update script
-        run: |
-          node updateReadme.js
+    # Step 4: Run the update script to fetch data and update README.md
+    - name: Run the update script
+      run: |
+        node updateReadme.js
 
-      # Step 5: Commit and push the updated README.md file using a token
-      - name: Commit and push updated README.md
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Updated README.md with dynamic stats"
-          git push https://x-access-token:${{ secrets.ACTIONS_TOKEN }}@github.com/xnil6x404/xnil6x404.git HEAD:main
+    # Step 5: Commit and push the updated README.md file
+    - name: Commit and push updated README.md
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add README.md
+        git status  # Display the git status before committing
+        git commit -m "Updated README.md with dynamic stats" || echo "No changes to commit"
+        git push https://x-access-token:${{ secrets.ACTIONS_TOKEN }}@github.com/xnil6x404/xnil6x404.git HEAD:main
