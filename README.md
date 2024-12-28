@@ -99,7 +99,7 @@
 ---
 
 ### 🚀 My GitHub Stats
-- **Public Repositories:** 96
+- **Public Repositories:** 97
 - **Public Gists:** 0
 - **Followers:** 6
 - **Following:** 16
