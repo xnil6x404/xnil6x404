@@ -35,12 +35,12 @@
 ## 📫 How to reach me:
 
 | Platform | Link |
-| :---: | :---: |
-| [Facebook](https://www.facebook.com/xnil6x404) | ![QR](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg) |
-| [Telegram](https://t.me/xnil6x) | ![QR](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg) |
-| [Twitter](https://twitter.com/xnil6x) | ![QR](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tw.svg) |
-| [LinkedIn](https://www.linkedin.com/in/xnil6x404/) | ![QR](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg) |
+## 📫 How to reach me:
 
+| Facebook | Telegram | Twitter | Youtube | 
+| :---: | :---: | :---: | :---: |
+| [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg)](https://www.facebook.com/xnil6x404) <p><b><a href="https://www.facebook.com/xnil6x404">XNIL6X</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg)](https://t.me/xnil6x) <p><b><a href="https://t.me/xnil6x">XNIL6X</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tw.svg)](https://twitter.com/xnil6x) <p><b><a href="https://twitter.com/xnil6x">XNIL6X</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg)](https://www.youtube.com/c/xnil6x) <p><b><a href="https://www.youtube.com/c/xnil6x">XNIL6X</a><b></p>  |
+<!-- email -->
 **✉️ Email:** xnilxhowdhury@gmail.com
 
 [![Twitter: XNIL6X](https://img.shields.io/twitter/follow/xnil6x?style=social)](https://twitter.com/xnil6x)
