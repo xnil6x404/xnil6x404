@@ -1,7 +1,8 @@
 
 
 ##  👋 Hi, I'm [xnil6x404!](https://www.facebook.com/xnil6x404) 👋
-<h3 align="center">I am a student and i am from BANGLADESH.</h3>
+<h2 align="center">I am a student and i am from BANGLADESH.
+Welcome to my GitHub profile! Here's a quick overview of my activities and stats.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xnil6x404&label=Views&color=blue&style=plastic" alt="ntkhang" /> </p>
 
@@ -20,10 +21,6 @@
 <br/>
 
 ![Profile Picture](https://avatars.githubusercontent.com/u/108590422?v=4)
-
-Welcome to my GitHub profile! Here's a quick overview of my activities and stats.
-
----
 
 ### 🌟 About Me
 - **Username:** [xnil6x404](https://github.com/xnil6x404)
