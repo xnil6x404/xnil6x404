@@ -9,12 +9,20 @@ import("node-fetch").then(({ default: fetch }) => {
     .then((data) => {
       const readmeContent = `
 
-# 
+# 👋 Hi, I'm [${data.login}](https://www.facebook.com/xnil6x404)
+
+<h2 align="center">🌏 I am a student from <b>BANGLADESH</b>.</h2>
+<h3 align="center">Welcome to my GitHub profile! Here's a quick overview of my activities and stats.</h3>
+
 ---
-👋 Hi, I'm [${data.login}](https://www.facebook.com/xnil6x404) 👋
-<h2 align="center">I am a student from BANGLADESH.</h2>
-<h3 align="center">Welcome to my GitHub profile! Here's a quick overview of my activities and stats.
-GitHub has been part of my journey since ${new Date(data.created_at).getFullYear()}, and I'm always learning and sharing new projects.br/>
+
+<p align="center">
+  GitHub has been part of my journey since <b>${new Date(data.created_at).getFullYear()}</b>, and I'm always learning and sharing new projects.
+</p>
+
+<p align="center">
+  🚀 <b>Exploring Technology</b> | 💡 <b>Building Solutions</b> | 📚 <b>Continuously Learning</b>
+</p>
 
 ---
 </h3>
