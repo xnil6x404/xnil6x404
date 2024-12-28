@@ -2,7 +2,7 @@ name: Update README.md
 
 on:
   schedule:
-    - cron: '*/1 * * * *'  # Run every minute (adjust the cron expression as needed)
+  - cron: '*/5 * * * *'  # প্রতি ৫ মিনিটে রান করুন
   workflow_dispatch:  # Allow manual trigger
   push:
     branches:
