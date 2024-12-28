@@ -98,7 +98,8 @@ import("node-fetch").then(({ default: fetch }) => {
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xnil6x&repo=GOATBoT--V2&theme=github_dark" style="margin-top: 10px;"/>
   </a>
 ---
-## 🌟 About Me
+
+### 🌟 About Me
 - **Username:** [${data.login}](${data.html_url})
 - **GitHub ID:** ${data.id}
 - **Member Since:** ${new Date(data.created_at).toDateString()}
