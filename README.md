@@ -21,6 +21,9 @@
   <a href="https://www.facebook.com/xnil6x404">
     <img alt="Facebook" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>
+  <a href="https://www.linkedin.com/in/xnil6x404/">
+    <img alt="LinkedIn" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
 </p>
 
 <br/><br/>
@@ -36,6 +39,7 @@
 | [Facebook](https://www.facebook.com/xnil6x404) | ![QR](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg) |
 | [Telegram](https://t.me/xnil6x) | ![QR](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg) |
 | [Twitter](https://twitter.com/xnil6x) | ![QR](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tw.svg) |
+| [LinkedIn](https://www.linkedin.com/in/xnil6x404/) | ![QR](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg) |
 
 **✉️ Email:** xnilxhowdhury@gmail.com
 
@@ -57,6 +61,7 @@
 - **Public Gists:** 0
 - **Followers:** 5
 - **Following:** 31
+- **Stars:** undefined ⭐ (This is a placeholder for your stars)
 
 ---
 
@@ -73,11 +78,29 @@
 
 ---
 
-### 📬 Contact Me:
-Feel free to check out my profile at [GitHub Profile](https://github.com/xnil6x404).
+### 📈 GitHub Activity
+
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=xnil6x404&theme=github)
+
+---
+
+### 🌐 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xnil6x404&langs_count=10&layout=compact&theme=radical)
+
+---
+
+### 📋 Pinned Repositories
+[![My Repository](https://github-readme-stats.vercel.app/api/pin/?username=xnil6x404&repo=my-repo&theme=radical)](https://github.com/xnil6x404/my-repo)
+[![Another Repo](https://github-readme-stats.vercel.app/api/pin/?username=xnil6x404&repo=another-repo&theme=radical)](https://github.com/xnil6x404/another-repo)
 
 ---
 
 ### 💡 Fun Fact
 GitHub has been part of my journey since **2022**, and I'm always learning and sharing new projects.
+
+---
+
+### 🎓 Achievements:
+- **[Certificate Name](https://example.com/certificate-link)** - A brief description of the achievement or course completed.
+- **[Another Achievement](https://example.com/another-link)** - Another cool accomplishment or certification.
 
