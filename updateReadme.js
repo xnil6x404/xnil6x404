@@ -10,7 +10,8 @@ import("node-fetch").then(({ default: fetch }) => {
       const readmeContent = `
 
 ##  👋 Hi, I'm [${data.login}!](https://www.facebook.com/xnil6x404) 👋
-<h3 align="center">I am a student and i am from BANGLADESH.</h3>
+<h2 align="center">I am a student and i am from BANGLADESH.
+Welcome to my GitHub profile! Here's a quick overview of my activities and stats.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xnil6x404&label=Views&color=blue&style=plastic" alt="ntkhang" /> </p>
 
@@ -29,10 +30,6 @@ import("node-fetch").then(({ default: fetch }) => {
 <br/>
 
 ![Profile Picture](${data.avatar_url})
-
-Welcome to my GitHub profile! Here's a quick overview of my activities and stats.
-
----
 
 ### 🌟 About Me
 - **Username:** [${data.login}](${data.html_url})
