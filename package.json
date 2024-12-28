@@ -1,1 +1,15 @@
 
+{
+  "name": "github-readme-updater",
+  "version": "1.0.0",
+  "description": "A script to update the GitHub README.md with user stats from the GitHub API",
+  "main": "updateReadme.js",
+  "scripts": {
+    "start": "node updateReadme.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
