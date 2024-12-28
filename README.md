@@ -45,11 +45,6 @@
 ![Profile Picture](https://avatars.githubusercontent.com/u/108590422?v=4)
 
 ---
-## 📫 How to reach me:
-
-| Facebook | Telegram | Twitter | Youtube | 
-| :---: | :---: | :---: | :---: |
-| [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg)](https://www.facebook.com/xnil6x404) <p><b><a href="https://www.facebook.com/xnil6x404">XNIL6X</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg)](https://t.me/xnil6x) <p><b><a href="https://t.me/xnil6x">XNIL6X</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tw.svg)](https://twitter.com/xnil6x) <p><b><a href="https://twitter.com/xnil6x">XNIL6X</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg)](https://www.youtube.com/c/xnil6x) <p><b><a href="https://www.youtube.com/c/xnil6x">XNIL6X</a><b></p>  |
 <!-- email -->
 **✉️ Email:** xnilxhowdhury@gmail.com
 
@@ -75,9 +70,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=xnil6x404">
   <br>
   <br>
-<a href="https://github.com/ntkhang03">
+<a href="https://github.com/xnil6x404">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=xnil6x404&show_icons=true&theme=github_dark&line_height=27" alt="XNIL6X404's github stats" style="margin-top: 10px;"/>
   </a>
+
+  <a href="http://www.github.com/xnil6x404"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xnil6x404&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   <br>
   <br>
   
@@ -104,7 +101,7 @@
 - **Public Repositories:** 96
 - **Public Gists:** 0
 - **Followers:** 6
-- **Following:** 23
+- **Following:** 16
 - **Stars:** undefined ⭐ (This is a placeholder for your stars)
 
 ---
