@@ -50,24 +50,6 @@ import("node-fetch").then(({ default: fetch }) => {
 
 [![Twitter: XNIL6X](https://img.shields.io/twitter/follow/xnil6x?style=social)](https://twitter.com/xnil6x)
 [![GitHub: XNIL6X](https://img.shields.io/github/followers/xnil6x404?label=follow&style=social)](https://github.com/xnil6x404)
-
----
-
-## 🌟 About Me
-- **Username:** [${data.login}](${data.html_url})
-- **GitHub ID:** ${data.id}
-- **Member Since:** ${new Date(data.created_at).toDateString()}
-- **Last Active:** ${new Date(data.updated_at).toDateString()}
-
----
-
-### 🚀 My GitHub Stats
-- **Public Repositories:** ${data.public_repos}
-- **Public Gists:** ${data.public_gists}
-- **Followers:** ${data.followers}
-- **Following:** ${data.following}
-- **Stars:** ${data.starred_at} ⭐ (This is a placeholder for your stars)
-
 ---
 
 ### 🛠️ Technologies & Tools:
@@ -104,6 +86,22 @@ import("node-fetch").then(({ default: fetch }) => {
 [![My Repository] <a href="https://github.com/xnil6x404/Goatbot-v2">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xnil6x&repo=GOATBoT--V2&theme=github_dark" style="margin-top: 10px;"/>
   </a>
+---
+## 🌟 About Me
+- **Username:** [${data.login}](${data.html_url})
+- **GitHub ID:** ${data.id}
+- **Member Since:** ${new Date(data.created_at).toDateString()}
+- **Last Active:** ${new Date(data.updated_at).toDateString()}
+
+---
+
+### 🚀 My GitHub Stats
+- **Public Repositories:** ${data.public_repos}
+- **Public Gists:** ${data.public_gists}
+- **Followers:** ${data.followers}
+- **Following:** ${data.following}
+- **Stars:** ${data.starred_at} ⭐ (This is a placeholder for your stars)
+
 ---
 
 ### 💡 Fun Fact
