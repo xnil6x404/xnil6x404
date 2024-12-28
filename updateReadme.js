@@ -1,6 +1,5 @@
 const fetch = require("node-fetch");
 const fs = require("fs");
-const { exec } = require("child_process");
 
 const url = "https://api.github.com/users/xnil6x404";
 
@@ -41,18 +40,9 @@ Feel free to check out my profile at [GitHub Profile](${data.html_url}).
 GitHub has been part of my journey since **${new Date(data.created_at).getFullYear()}**, and I'm always learning and sharing new projects.
 `;
 
-    // Write the updated README.md
+    // Write the updated README.md file
     fs.writeFileSync("README.md", readmeContent, "utf8");
 
     console.log("README.md file updated!");
-
-    // GitHub রিপোজিটরিতে পুশ করার জন্য কমান্ড
-    exec("git add README.md && git commit -m 'Updated README.md with dynamic stats' && git push", (err, stdout, stderr) => {
-      if (err) {
-        console.error(`Error: ${stderr}`);
-        return;
-      }
-      console.log(stdout);
-    });
   })
   .catch((error) => console.error("Error fetching data:", error));
