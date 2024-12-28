@@ -84,8 +84,8 @@
 
 ---
 
-### 📋 Pinned Repositories
-[![My Repository] <a href="https://github.com/xnil6x404/Goatbot-v2">
+### 📋
+<a href="https://github.com/xnil6x404/Goatbot-v2">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xnil6x&repo=GOATBoT--V2&theme=github_dark" style="margin-top: 10px;"/>
   </a>
 ---
