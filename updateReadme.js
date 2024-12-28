@@ -14,7 +14,7 @@ import("node-fetch").then(({ default: fetch }) => {
 👋 Hi, I'm [${data.login}](https://www.facebook.com/xnil6x404) 👋
 <h2 align="center">I am a student from BANGLADESH.</h2>
 <h3 align="center">Welcome to my GitHub profile! Here's a quick overview of my activities and stats.
-GitHub has been part of my journey since **${new Date(data.created_at).getFullYear()}**, and I'm always learning and sharing new projects.
+GitHub has been part of my journey since ${new Date(data.created_at).getFullYear()}, and I'm always learning and sharing new projects.
 
 ---
 </h3>
