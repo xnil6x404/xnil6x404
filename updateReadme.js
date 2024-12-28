@@ -1,12 +1,13 @@
-const fetch = require("node-fetch");
-const fs = require("fs");
+// Use dynamic import for node-fetch (ESM)
+import("node-fetch").then(({ default: fetch }) => {
+  const fs = require("fs");
 
-const url = "https://api.github.com/users/xnil6x404";
+  const url = "https://api.github.com/users/xnil6x404";
 
-fetch(url)
-  .then((response) => response.json())
-  .then((data) => {
-    const readmeContent = `
+  fetch(url)
+    .then((response) => response.json())
+    .then((data) => {
+      const readmeContent = `
 # 👋 Hi, I'm ${data.login}!
 
 ![Profile Picture](${data.avatar_url})
@@ -40,9 +41,11 @@ Feel free to check out my profile at [GitHub Profile](${data.html_url}).
 GitHub has been part of my journey since **${new Date(data.created_at).getFullYear()}**, and I'm always learning and sharing new projects.
 `;
 
-    // Write the updated README.md file
-    fs.writeFileSync("README.md", readmeContent, "utf8");
+      // Write the updated README.md file
+      fs.writeFileSync("README.md", readmeContent, "utf8");
 
-    console.log("README.md file updated!");
-  })
-  .catch((error) => console.error("Error fetching data:", error));
+      console.log("README.md file updated!");
+    })
+    .catch((error) => console.error("Error fetching data:", error));
+})
+.catch((error) => console.error("Error importing node-fetch:", error));
