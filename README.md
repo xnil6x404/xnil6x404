@@ -22,6 +22,30 @@ Welcome to my GitHub profile! Here's a quick overview of my activities and stats
 
 ![Profile Picture](https://avatars.githubusercontent.com/u/108590422?v=4)
 
+
+## 📫 How to reach me:
+
+| Facebook | Telegram | Twitter | Youtube | 
+| :---: | :---: | :---: | :---: |
+| [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg)](https://www.facebook.com/xnil6x404) <p><b><a href="https://www.facebook.com/xnil6x404">XNIL6X</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg)](https://t.me/xnil6x) <p><b><a href="https://t.me/xnil6x">XNIL6X</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tw.svg)](https://twitter.com/xnil6x) <p><b><a href="https://twitter.com/xnil6x">XNIL6X</a><b></p>
+<!-- email -->
+**✉️ Email:** xnilxhowdhury@gmail.com
+
+[![Twitter: XNIL6X](https://img.shields.io/twitter/follow/xnil6x?style=social)](https://twitter.com/xnil6x)
+[![GitHub: XNIL6X 404](https://img.shields.io/github/followers/xnil6x404?label=follow&style=social)](https://github.com/xnil6x404)
+
+<!-- ngôn ngữ đã học -->
+**Learned Languages and Frameworks:**
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="background: #000;"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"></code>
+
+**Tools used:**
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"></code>
+
 ### 🌟 About Me
 - **Username:** [xnil6x404](https://github.com/xnil6x404)
 - **GitHub ID:** 108590422
