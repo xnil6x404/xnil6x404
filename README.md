@@ -79,10 +79,16 @@
 ---
 
 ### 📈 GitHub Activity
-
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=xnil6x404&theme=github)
-
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xnil6x404">
+  <br>
+  <br>
+<a href="https://github.com/ntkhang03">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=xnil6x404&show_icons=true&theme=github_dark&line_height=27" alt="XNIL6X404's github stats" style="margin-top: 10px;"/>
+  </a>
+  <br>
+  <br>
+  
 
 ### 🌐 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xnil6x404&langs_count=10&layout=compact&theme=radical)
@@ -90,8 +96,8 @@
 ---
 
 ### 📋 Pinned Repositories
-[![My Repository](https://github-readme-stats.vercel.app/api/pin/?username=xnil6x404&repo=my-repo&theme=radical)](https://github.com/xnil6x404/my-repo)
-[![Another Repo](https://github-readme-stats.vercel.app/api/pin/?username=xnil6x404&repo=another-repo&theme=radical)](https://github.com/xnil6x404/another-repo)
+[![My Repository](https://github-readme-stats.vercel.app/api/pin/?username=xnil6x404&repo=my-repo&theme=radical)](https://github.com/xnil6x404/V5)
+[![Another Repo](https://github-readme-stats.vercel.app/api/pin/?username=xnil6x404&repo=another-repo&theme=radical)](https://github.com/xnil6x/GoatBot-V2.git)
 
 ---
 
