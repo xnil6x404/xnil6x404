@@ -1,0 +1,38 @@
+name: Update README.md
+
+on:
+  schedule:
+    - cron: '*/1 * * * *'  # Run every minute
+  workflow_dispatch:  # Allow manual trigger
+  push:
+    branches:
+      - main  # Trigger when something is pushed to the main branch
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'  # Your Node.js version
+
+      - name: Install dependencies
+        run: |
+          npm install
+
+      - name: Run the update script
+        run: |
+          node updateReadme.js
+
+      - name: Commit and push updated README.md
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated README.md with dynamic stats"
+          git push
