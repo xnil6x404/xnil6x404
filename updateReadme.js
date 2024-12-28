@@ -40,10 +40,6 @@ import("node-fetch").then(({ default: fetch }) => {
 ![Profile Picture](${data.avatar_url})
 
 ---
-
-## 📫 How to reach me:
-
-| Platform | Link |
 ## 📫 How to reach me:
 
 | Facebook | Telegram | Twitter | Youtube | 
@@ -105,9 +101,9 @@ import("node-fetch").then(({ default: fetch }) => {
 ---
 
 ### 📋 Pinned Repositories
-[![My Repository](https://github-readme-stats.vercel.app/api/pin/?username=xnil6x404&repo=my-repo&theme=radical)](https://github.com/xnil6x404/V5)
-[![Another Repo](https://github-readme-stats.vercel.app/api/pin/?username=xnil6x404&repo=another-repo&theme=radical)](https://github.com/xnil6x/GoatBot-V2.git)
-
+[![My Repository] <a href="https://github.com/ntkhang03/Goat-Bot">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xnil6x&repo=GoatBot-V2&theme=github_dark" style="margin-top: 10px;"/>
+  </a>
 ---
 
 ### 💡 Fun Fact
