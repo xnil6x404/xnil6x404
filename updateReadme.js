@@ -8,6 +8,8 @@ import("node-fetch").then(({ default: fetch }) => {
     .then((response) => response.json())
     .then((data) => {
       const readmeContent = `
+      
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Helvetica&pause=1000&color=F7D400&random=true&width=435&lines=Welcome+To+My+Profile&center=true"/>
 
 # 👋 Hi, I'm [${data.login}](https://www.facebook.com/xnil6x404)
 
