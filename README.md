@@ -1,4 +1,6 @@
 
+      
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Helvetica&pause=1000&color=F7D400&random=true&width=435&lines=Welcome+To+My+Profile&center=true"/>
 
 # 👋 Hi, I'm [xnil6x404](https://www.facebook.com/xnil6x404)
 
@@ -102,7 +104,7 @@
 - **Public Repositories:** 97
 - **Public Gists:** 0
 - **Followers:** 8
-- **Following:** 17
+- **Following:** 8
 - **Stars:** undefined ⭐ (This is a placeholder for your stars)
 
 ---
