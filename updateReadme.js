@@ -11,6 +11,10 @@ import("node-fetch").then(({ default: fetch }) => {
       
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Helvetica&pause=1000&color=F7D400&random=true&width=435&lines=Welcome+To+My+Profile&center=true"/>
 
+<p align="center">
+  <img src="https://graph.facebook.com/100082247235177/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662" alt="Profile Picture" width="200" height="200" style="border-radius: 50%;">
+</p>
+
 # 👋 Hi, I'm [${data.login}](https://www.facebook.com/xnil6x404)
 
 <h2 align="center">🌏 I am a student from <b>BANGLADESH</b>.</h2>
@@ -53,7 +57,7 @@ import("node-fetch").then(({ default: fetch }) => {
 
 <br/><br/>
 
-![Profile Picture](${data.avatar_url})
+<!-- ![Profile Picture](${data.avatar_url}) -->
 
 ---
 <!-- email -->
