@@ -105,7 +105,7 @@
 ---
 
 ### 🚀 My GitHub Stats
-- **Public Repositories:** 107
+- **Public Repositories:** 108
 - **Public Gists:** 0
 - **Followers:** 7
 - **Following:** 11
