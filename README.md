@@ -55,7 +55,7 @@
 **✉️ Email:** xnilxhowdhury@gmail.com
 
 [![Twitter: XNIL6X](https://img.shields.io/twitter/follow/xnil6x?style=social)](https://twitter.com/xnil6x)
-[![Follow](https://img.shields.io/badge/Follow-GitHub-black?logo=github&style=for-the-badge)](https://github.com/xnil6x404) 11
+[![Follow](https://img.shields.io/badge/Follow-GitHub-black?logo=github&style=for-the-badge)](https://github.com/xnil6x404) 12
 ---
 
 ### 🛠️ Technologies & Tools:
@@ -107,7 +107,7 @@
 ### 🚀 My GitHub Stats
 - **Public Repositories:** 113
 - **Public Gists:** 0
-- **Followers:** 11
+- **Followers:** 12
 - **Following:** 18
 - **Stars:** undefined ⭐ (This is a placeholder for your stars)
 
