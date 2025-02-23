@@ -6,7 +6,7 @@
   <img src="https://graph.facebook.com/100078794143432/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662" alt="Profile Picture" width="200" height="200" style="border-radius: 50%;">
 </p>
 
-# 👋 Hi, I'm [undefined](https://www.facebook.com/xnil6x404)
+# 👋 Hi, I'm [xnil6x404](https://www.facebook.com/xnil6x404)
 
 <h2 align="center">🌏 I am a student from <b>BANGLADESH</b>.</h2>
 <h3 align="center">Welcome to my GitHub profile! Here's a quick overview of my activities and stats.</h3>
@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  GitHub has been part of my journey since <b>NaN</b>, and I'm always learning and sharing new projects.
+  GitHub has been part of my journey since <b>2022</b>, and I'm always learning and sharing new projects.
 </p>
 
 <p align="center">
@@ -48,14 +48,14 @@
 
 <br/><br/>
 
-<!-- ![Profile Picture](undefined) -->
+<!-- ![Profile Picture](https://avatars.githubusercontent.com/u/108590422?v=4) -->
 
 ---
 <!-- email -->
 **✉️ Email:** xnilxhowdhury@gmail.com
 
 [![Twitter: XNIL6X](https://img.shields.io/twitter/follow/xnil6x?style=social)](https://twitter.com/xnil6x)
-[![Follow](https://img.shields.io/badge/Follow-GitHub-black?logo=github&style=for-the-badge)](https://github.com/xnil6x404) undefined
+[![Follow](https://img.shields.io/badge/Follow-GitHub-black?logo=github&style=for-the-badge)](https://github.com/xnil6x404) 15
 ---
 
 ### 🛠️ Technologies & Tools:
@@ -97,18 +97,18 @@
 ---
 
 ### 🌟 About Me
-- **Username:** [undefined](undefined)
-- **GitHub ID:** undefined
-- **Member Since:** Invalid Date
-- **Last Active:** Invalid Date
+- **Username:** [xnil6x404](https://github.com/xnil6x404)
+- **GitHub ID:** 108590422
+- **Member Since:** Sat Jul 02 2022
+- **Last Active:** Sun Feb 02 2025
 
 ---
 
 ### 🚀 My GitHub Stats
-- **Public Repositories:** undefined
-- **Public Gists:** undefined
-- **Followers:** undefined
-- **Following:** undefined
+- **Public Repositories:** 129
+- **Public Gists:** 0
+- **Followers:** 15
+- **Following:** 24
 - **Stars:** undefined ⭐ (This is a placeholder for your stars)
 
 ---
