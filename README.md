@@ -108,7 +108,7 @@
 - **Public Repositories:** 133
 - **Public Gists:** 0
 - **Followers:** 15
-- **Following:** 25
+- **Following:** 24
 - **Stars:** undefined ⭐ (This is a placeholder for your stars)
 
 ---
