@@ -55,7 +55,7 @@
 **✉️ Email:** xnilxhowdhury@gmail.com
 
 [![Twitter: XNIL6X](https://img.shields.io/twitter/follow/xnil6x?style=social)](https://twitter.com/xnil6x)
-[![Follow](https://img.shields.io/badge/Follow-GitHub-black?logo=github&style=for-the-badge)](https://github.com/xnil6x404) 16
+[![Follow](https://img.shields.io/badge/Follow-GitHub-black?logo=github&style=for-the-badge)](https://github.com/xnil6x404) 20
 ---
 
 ### 🛠️ Technologies & Tools:
@@ -100,15 +100,15 @@
 - **Username:** [xnil6x404](https://github.com/xnil6x404)
 - **GitHub ID:** 108590422
 - **Member Since:** Sat Jul 02 2022
-- **Last Active:** Mon Mar 24 2025
+- **Last Active:** Sun Apr 06 2025
 
 ---
 
 ### 🚀 My GitHub Stats
-- **Public Repositories:** 141
+- **Public Repositories:** 150
 - **Public Gists:** 0
-- **Followers:** 16
-- **Following:** 30
+- **Followers:** 20
+- **Following:** 42
 - **Stars:** undefined ⭐ (This is a placeholder for your stars)
 
 ---
