@@ -100,7 +100,7 @@
 - **Username:** [xnil6x404](https://github.com/xnil6x404)
 - **GitHub ID:** 108590422
 - **Member Since:** Sat Jul 02 2022
-- **Last Active:** Sun Apr 06 2025
+- **Last Active:** Mon May 12 2025
 
 ---
 
@@ -108,7 +108,7 @@
 - **Public Repositories:** 151
 - **Public Gists:** 0
 - **Followers:** 20
-- **Following:** 43
+- **Following:** 42
 - **Stars:** undefined ⭐ (This is a placeholder for your stars)
 
 ---
