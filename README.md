@@ -105,10 +105,10 @@
 ---
 
 ### 🚀 My GitHub Stats
-- **Public Repositories:** 151
+- **Public Repositories:** 152
 - **Public Gists:** 0
 - **Followers:** 22
-- **Following:** 43
+- **Following:** 44
 - **Stars:** undefined ⭐ (This is a placeholder for your stars)
 
 ---
